@@ -97,5 +97,5 @@ if __name__ == '__main__':
             outputFile.writelines(seedWords)
     else:
         print('ERROR: No document file supplied')
-        print('\n  Use `python findSeedWords.py <filename>`')
+        print('\n  Use `python search.py <filename>`')
 #################################################### END: __main__
